@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [NewTours]">
+  <listeners>
+    <listener class-name="com.ag.framework.listeners.CustomListener"/>
+    <listener class-name="com.ag.framework.listeners.ITestListenerReporter"/>
+  </listeners>
+  <test name="NewTours(failed)">
+    <classes>
+      <class name="application.scenarios.TestScenarios">
+        <methods>
+          <include name="VerifyFlightBooking"/>
+        </methods>
+      </class> <!-- application.scenarios.TestScenarios -->
+    </classes>
+  </test> <!-- NewTours(failed) -->
+</suite> <!-- Failed suite [NewTours] -->

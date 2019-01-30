@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE suite PUBLIC "http://testng.org" "http://testng.org/testng-1.0.dtd">
+<suite name="NewTours"><listeners><listener class-name="com.ag.framework.listeners.CustomListener"/><listener class-name="com.ag.framework.listeners.ITestListenerReporter"/></listeners><test name="NewTours"><classes><class name="application.scenarios.TestScenarios"><methods><include name="VerifyFlightBooking"/></methods></class></classes></test></suite>

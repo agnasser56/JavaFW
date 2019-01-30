@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NewTours" duration-ms="163242" started-at="2018-05-28T11:26:26Z" finished-at="2018-05-28T11:29:09Z">
+    <groups>
+    </groups>
+    <test name="NewTours" duration-ms="163242" started-at="2018-05-28T11:26:26Z" finished-at="2018-05-28T11:29:09Z">
+      <class name="application.scenarios.TestScenarios">
+        <test-method status="PASS" signature="VerifyFlightBooking()[pri:0, instance:application.scenarios.TestScenarios@f2ce6b]" name="VerifyFlightBooking" duration-ms="162679" started-at="2018-05-28T14:26:26Z" description="VerifyFlightBooking" finished-at="2018-05-28T14:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFlightBooking -->
+      </class> <!-- application.scenarios.TestScenarios -->
+    </test> <!-- NewTours -->
+  </suite> <!-- NewTours -->
+</testng-results>

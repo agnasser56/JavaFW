@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.application.scenarios.TestScenarios" duration-ms="124" started-at="2018-05-20T09:15:55Z" finished-at="2018-05-20T09:15:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="124" started-at="2018-05-20T09:15:55Z" finished-at="2018-05-20T09:15:55Z">
+      <class name="test.application.scenarios.TestScenarios">
+        <test-method status="PASS" signature="VerifyUserLogin()[pri:0, instance:test.application.scenarios.TestScenarios@b4c3ab]" name="VerifyUserLogin" duration-ms="105" started-at="2018-05-20T12:15:55Z" finished-at="2018-05-20T12:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserLogin -->
+        <test-method status="PASS" signature="Verifyuserisinvalid()[pri:0, instance:test.application.scenarios.TestScenarios@b4c3ab]" name="Verifyuserisinvalid" duration-ms="3" started-at="2018-05-20T12:15:55Z" finished-at="2018-05-20T12:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyuserisinvalid -->
+      </class> <!-- test.application.scenarios.TestScenarios -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.application.scenarios.TestScenarios -->
+</testng-results>
